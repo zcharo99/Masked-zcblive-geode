@@ -1,7 +1,8 @@
 # ZCB Live for Geode
 
 ZCB Live is a next-generation Geometry Dash clickbot.
-first of me the owner of this repo have not created the clickbot, all credit goes to the original developer(s)
+
+first of all me the owner of this repo have not created the clickbot, all credit goes to the original developer(s)
 
 # Features
 
