@@ -4,15 +4,11 @@
 		"win": "2.206"
 	},
 	"version": "v1.0.2",
-	"id": "zeozeozeo.zcblive",
-	"name": "ZCB Live",
-	"developer": "zeozeozeo",
-	"description": "A next-generation Geometry Dash clickbot",
-	"issues": {
-		"info": "Report any bugs/suggestions in the Discord server.",
-		"url": "https://discord.gg/BRVVVzxESu"
-	},
+	"id": "zchar.betterstartpos",
+	"name": "Better Start Pos",
+	"developer": "zChar",
+	"description": "A geode mod for making the Start Pos trigger menu look better",
 	"tags": [
-		"music", "utility", "cheats"
+		"utility"
 	]
 }
